@@ -3,10 +3,12 @@ layout: post
 title: Protect your secrets on OS X
 description: "Use the OS X Disk Utility to create a free, personal safe for your important data. You can choose between AES-128 or even AES-256bit encryption."
 featured_image: securitysafe.jpg
-tags: [Security, HowTo, OS X, Applications]
+tags: [Security, HowTo, OS X]
 ---
 
 There's a ton of fancy security apps on the App Store. And people are buying into the hype because of the whole NSA affair. But in reality you don't need extra tools. Because OS X ships with everything you need to make your own personal data lockbox.
+
+<!--more-->
 
 ## The hidden features of Disk Utility
 

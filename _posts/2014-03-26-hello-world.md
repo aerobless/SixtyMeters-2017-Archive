@@ -2,7 +2,7 @@
 layout: post
 title: Hello world
 description: "Hi there! This is the first post on my new Jekyll-based blog! I hope you have fun reading it."
-tags: [HelloWorld]
+tags: [Site]
 ---
 
 Hello world! This is the first post on my new Jekyll-based blog.

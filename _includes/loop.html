@@ -3,6 +3,12 @@
     {% if post.featured_image %}
     <a href="{{ site.baseurl }}{{ post.url }}" class="post-thumbnail"><img src="{{ "/images/headers/" | append: post.featured_image | prepend: site.baseurl }}" alt="{% if post.featured_image_alt %}{{ post.featured_image_alt }}{% else %}{{ post.title }}{% endif %}"></a>
     {% endif %}
+    {% if post.image.video %}
+    <video width="100%" autoplay loop>
+        <source src="{{ site.url }}/images/headers/{{post.image.video}}" type="video/mp4">
+        <img src="{{ site.url }}/images/headers/{{ post.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+    </video>
+    {% endif %}
     <div class="entry-box">
         <header class="entry-header">
             <h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>

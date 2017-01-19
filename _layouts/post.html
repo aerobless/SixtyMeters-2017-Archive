@@ -7,6 +7,13 @@ layout: default
             {% if page.featured_image %}
             <div class="post-thumbnail"><img src="{{ "/images/headers/" | append: page.featured_image | prepend: site.baseurl }}" alt="{% if page.featured_image_alt %}{{ page.featured_image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
             {% endif %}
+            {% if page.image.video %}
+            <video width="100%" autoplay loop>
+                <source src="{{ site.url }}/images/headers/{{page.image.video}}" type="video/mp4">
+                <img src="{{ site.url }}/images/headers/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+            </video>
+            {% endif %}
+            
             <div class="entry-box">
                 <header class="entry-header"> 
                     <h1 class="entry-title">{{ page.title }}</h1>

@@ -15,6 +15,8 @@ Before I got started working on my todo list I searched the web and there were a
 
 That's where ToxicTodo was born. To hell with all those articles claiming that todo lists don't work.
 
+<!--more-->
+
 ## Todo List Essentials
 While working on my todo list (ToxicTodo) I've noticed that there are 3 core principals that have to be met for a todo list to be useful (for me).
 

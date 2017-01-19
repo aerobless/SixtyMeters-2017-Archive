@@ -1,24 +1,30 @@
 ---
 layout: page
 title: About this blog
-description: An optional about page for BlogBox Jekyll theme
-featured_image: aboutPage.jpg
+description: Theo studied computer science at HSR and works now as a software engineer @ Zühlke CH. He's passionate about programming, travelling and photography.
+featured_image: switzerland.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+Hey! I'm Theo and I work as software engineer at [Zühlke](http://www.zuehlke.com/ch/en/){:target="_blank"} in [Switzerland](https://www.google.com/maps/place/Switzerland){:target="_blank"}. 
+Before that I've studied computer science at [HSR](http://www.hsr.ch){:target="_blank"} in [Rapperswil](https://www.google.com/maps/place/HSR+Rapperswil){:target="_blank"}.
+Some of my hobbies are programming, travelling, [photography]({{ site.url }}/photography/), cycling and skiing. My tools of choice are OS X,
+Canon, GitHub and everything from Google. I believe in open source and I've made most of my projects freely available on
+[GitHub](https://github.com/aerobless){:target="_blank"}. Yes, you can find the repository of this site on GitHub as well.  
+If you'd like to know more feel free to contact me or visit my [G+ profile](https://plus.google.com/+TheoWinterCH){:target="_blank"}.
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+This page is my personal blog and I use it as a place to show off some of my projects, photos and so on. Enjoy :)
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+## Skills
+ + **Programming Languages:** Java, Go, C# & .NET, JavaScript
+    + **Supporting Skills:** Continuous Integration, Test-Driven Development, Patterns of Enterprise Application Architecture,
+     Enterprise Integration Patterns, GoF Patterns
+ + **Web:** HTML, CSS, JavaScript, WordPress, Jekyll
+ + **Mobile:** Android Studio, Xamarin
+ + **Graphics:** Adobe Photoshop, Adobe Lightroom
+ + **Databases:** Postgres, Oracle, MSSQL
+ + **Cloud Services & Servers:** Amazon AWS, Digital Ocean, OVH
+ + **Operating Systems:** OS X, Ubuntu, Windows
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
+## Contact
+Feel free to send me an email at [theo@w1nter.com](mailto://theo@w1nter.com) or chat with me on [Google Hangouts](https://plus.google.com/+TheoWinterCH){:target="_blank"}.
 
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
-
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
-
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
-
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
-
-*Thank You for reading!*
