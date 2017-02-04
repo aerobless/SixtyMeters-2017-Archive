@@ -12,8 +12,7 @@ Did you know that you can use any screensaver as a animated live wallpaper on OS
 
   1. Open a new terminal window
   2. Type the following command and press enter:  
-  `/System/Library/Frameworks/ScreenSaver.framework/Resources/
-  ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background`
+  `/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background`
   
 Once you type `crtl-c` or close the terminal window the screensaver stops playing. 
 

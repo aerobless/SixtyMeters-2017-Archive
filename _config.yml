@@ -24,7 +24,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://sixtymeters.com"
+url: "https://sixtymeters.com"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -46,8 +46,8 @@ author_location: "Zürich, Switzerland"
 author_image: authorimage.jpg
 
 # Footer ad banner
-banner_url: "https://justgoodthemes.com/"
-banner_image: banner.jpg
+banner_url: ""
+banner_image: 
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: 
