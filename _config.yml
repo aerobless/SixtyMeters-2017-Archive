@@ -30,20 +30,22 @@ url: "https://sixtymeters.com"
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
-- text: Archives
+- text: Archive
   url: /tags/
+- text: About Me
+  url: https://theowinter.ch
 
 # The shortname for your Disqus site to enable comments.
 disqus: theowinterch
 
 # Author information - author info at the bottom of the post
-author_name: "Theodor Winter"
-author_bio: "My name is Theo Winter. I’m a software engineer @Zühlke. "
+author_name: "Theo Winter"
+author_bio: "Hi I'm Theo. A swiss coder, traveller and photography hobbyist. I've studied Computer Science at <a href='https://www.hsr.ch'>HSR</a> and am now working on cool projects for <a href='https://twitter.com/zuehlke_group'>@Zuehlke Engineering</a>."
 author_url: "https://theowinter.ch"
 author_location: "Zürich, Switzerland"
 author_image: authorimage.jpg
+
+
 
 # Footer ad banner
 banner_url: ""
